@@ -8,7 +8,7 @@ Je suis un étudiant à l'Idem, passionné par le développement web. J'ai actue
 
 - **HTML** : Création de structures de pages web.
 - **CSS** : Mise en forme et design des pages web.
--**Git** : Initialisation de dépôts, le suivi des fichiers, la gestion des branches et la collaboration via GitHub.
+- **Git** : Initialisation de dépôts, le suivi des fichiers, la gestion des branches et la collaboration via GitHub.
 
 ## 📚 Objectifs d'apprentissage
 
